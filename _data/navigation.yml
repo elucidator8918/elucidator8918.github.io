@@ -9,9 +9,6 @@ main:
 
   - title: "Seminars"
     url: /talks/       
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Medium Posts"
     url: /year-archive/
