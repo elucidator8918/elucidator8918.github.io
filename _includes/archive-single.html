@@ -34,8 +34,12 @@
       {% endif %}
     </h2>
     
-    {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+    {% if post.title == "Multi-label Audio Classification: Insights from Freesound Audio Tagging 2019 Competition" %}
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i>18 minutes of Reading Time :D </p>
+    {% endif %}
+
+    {% if post.title == "Mercari Price Suggestion Challenge: A Regression Case Study" %}
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i>23 minutes of Reading Time :D </p>
     {% endif %}
 
         {% if post.collection == 'teaching' %}
