@@ -6,6 +6,7 @@ journal: "Procedia Computer Science"
 volume: "230"
 pages: "554-563"
 publisher: "Elsevier"
+current_total_citations: "Cited by 1"
 venue: '3rd International Conference on Evolutionary Computing and Mobile Sustainable Networks'
 To cite my paper: 'Dutta, Siddhant, et al. "QUESC: Environmental Sound classification Using Quantum Quantized Networks." Procedia Computer Science 230 (2023): 554-563."'
 ---
