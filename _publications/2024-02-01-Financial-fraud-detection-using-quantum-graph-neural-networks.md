@@ -7,7 +7,7 @@ volume: "6"
 issue: "1"
 pages: "1-18"
 publisher: "Springer International Publishing"
-current_total_citations: "Cited by 6"
+current_total_citations: "Cited by 7"
 venue: Quantum Machine Intelligence Springer Nature Journal
 To cite my paper: 'Innan, Nouhaila, et al. "Financial fraud detection using quantum graph neural networks." Quantum Machine Intelligence 6.1 (2024): 1-18.'
 ---
